@@ -68,11 +68,11 @@ body {
 #main-row {
   text-align: center;
   background: #fff;
-  padding: 20px;
+  padding: 50px 20px;
   border: 1px solid #ccc;
 }
 #main-row .btn {
-  margin: 0 5px;
+  margin: 5px;
 }
 #show {
   font-size: 24px;
